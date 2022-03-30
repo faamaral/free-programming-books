@@ -1,6 +1,7 @@
 ### Index
 
 * [APL](#apl)
+* [Assembly](#assembly)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -54,21 +55,27 @@
 * [TryAPL Mini](https://janiczek.github.io/tryapl-elm)
 
 
-### <a name="c"></a>C
+### Assembly
+
+* [Educational Visual CPU Simulator](https://github.com/Belotti01/CPU-Visual-Simulator) - Renato Cortinovis, Nicola Preda, Jonathan Cancelli, Alessandro Belotti, Davide Riva (JAVA, JAR)
+
+
+### <a id="c"></a>C
 
 * [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler/)
 * [Programiz - Online C Compiler](https://www.programiz.com/c-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/c)
 
 
-### <a name="csharp"></a>C#
+### <a id="csharp"></a>C\#
 
 * [SoloLearn](https://code.sololearn.com/csharp)
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [Coding Minutes](https://ide.codingminutes.com)
+* [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/)
 * [LabStack](https://code.labstack.com/cpp)
 * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
 * [SoloLearn](https://code.sololearn.com/cpp)
@@ -185,7 +192,7 @@
 * [Play with Kubernetes](https://labs.play-with-k8s.com)
 
 
-### <a name="dotnet"></a>.NET
+### <a id="dotnet"></a>.NET
 
 * [.NET Fiddle](https://dotnetfiddle.net)
 

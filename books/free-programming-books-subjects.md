@@ -36,6 +36,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Partial Evaluation](#partial-evaluation)
 * [Professional Development](#professional-development)
 * [Programming Paradigms](#programming-paradigms)
+* [Quantum Computing](#quantum-computing)
 * [Regular Expressions](#regular-expressions)
 * [Reverse Engineering](#reverse-engineering)
 * [Search Engines](#search-engines)
@@ -143,7 +144,8 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
 * [Grokking Bitcoin](https://rosenbaum.se/book/) - Kalle Rosenbaum (HTML)
 * [IBM Blockchain: The Founder’s Handbook, Third Edition](https://www.ibm.com/downloads/cas/GZPPMWM5) - Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield et al. (PDF)
-* [Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
+* [Mastering Bitcoin - Unlocking digital currencies (2017), 2nd Edition](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos (AsciiDoc)
+* [Mastering Ethereum (2018), 1st Edition](https://github.com/ethereumbook/ethereumbook) - Andreas M. Antonopoulos, Gavin Wood (AsciiDoc)
 * [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
 
 
@@ -262,6 +264,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 ### Game Development
 
 * [2D Game Development: From Zero To Hero](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) (:construction: *in process*)
+* [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html) - Fletcher Dunn (HTML)
 * [Coding With Minecraft](https://turtleappstore.com/book/) - Al Sweigart
 * [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
 * [Game AI Pro](http://www.gameaipro.com) - Steve Rabin
@@ -457,7 +460,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)
 * [Notes on Diffy Qs](https://www.jirka.org/diffyqs/) - Jiří Lebl
 * [Number Theory](https://github.com/holdenlee/number-theory) - Holden Lee MIT
-* [Number Theory: In Context and Interactive](https://web.archive.org/web/20210711231452/https://math.gordon.edu/ntic/) - Karl-Dieter Crisman
+* [Number Theory: In Context and Interactive](https://math.gordon.edu/ntic/) - Karl-Dieter Crisman (HTML, PDF)
 * [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
 * [Online Statistics Education](http://onlinestatbook.com) - David Lane
 * [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, Mine Çetinkaya-Rundel
@@ -491,6 +494,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) - Claude E.Shannon
 * [Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
 * [Exploring Math for Programmers and Data Scientists](https://freecontent.manning.com/free-ebook-exploring-math-for-programmers-and-data-scientists/) - Paul Orland
+* [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer (PDF)
 
 
 ### Misc
@@ -515,6 +519,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Digital Signal Processing For Engineers and Scientists](http://www.dspguide.com)
 * [Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp) - Allen B. Downey
 * ["DYNAMIC LINKED LIBRARIES": Paradigms of the GPL license in contemporary software](http://www.lulu.com/shop/http://www.lulu.com/shop/luis-enr%C3%ADquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21419788.html) - Luis A. Enríquez
+* [Encyclopedia of Human Computer Interaction 2nd Edition](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
 * [Essential Image Optimization](https://images.guide) - Addy Osmani
 * [Foundations of Programming](https://openmymind.net/FoundationsOfProgramming.pdf) - Karl Seguin (PDF)
 * [Getting Real](https://basecamp.com/books/getting-real) - Basecamp, 37signals ([HTML](https://basecamp.com/gettingreal), [PDF](https://basecamp.com/gettingreal/getting-real.pdf))
@@ -561,6 +566,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 ### Networking
 
 * [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu) (HTML, PDF, Kindle)
+* [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
 * [Bits, Signals, and Packets: An Introduction to Digital Communications and Networks](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)
 * [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
 * [Computer Networking : Principles, Protocols and Practice](http://cnp3book.info.ucl.ac.be/1st/html/index.html) (HTML, ePub, PDF, Kindle)
@@ -664,6 +670,13 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
 * [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+
+
+### Quantum Computing
+
+* [Introduction to Classical and Quantum Computing](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e2p.pdf) - Thomas G. Wong (PDF)
+* [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) - Frank Harkins et al. (HTML)
+* [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007/978-3-030-61601-4) - Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel F. Sun, Jessica Turner (HTML, PDF, EPUB)
 
 
 ### Regular Expressions
