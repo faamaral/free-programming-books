@@ -7,7 +7,6 @@
 * [C++](#cpp)
 * [ClojureScript](#clojurescript)
 * [Crystal](#crystal)
-* [CSS](#css)
 * [Dart](#dart)
 * [Docker](#docker)
 * [Elm](#elm)
@@ -16,10 +15,11 @@
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
+* [HTML and CSS](#html-and-css)
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
+    * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
@@ -43,7 +43,7 @@
 * [Svelte](#svelte)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 * [V](#v)
 
 
@@ -62,6 +62,7 @@
 
 ### <a id="c"></a>C
 
+* [InterviewBit - Online C Compiler IDE](https://www.interviewbit.com/online-c-compiler/)
 * [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler/)
 * [Programiz - Online C Compiler](https://www.programiz.com/c-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/c)
@@ -90,15 +91,6 @@
 ### Crystal
 
 * [Compile & run code in Crystal](https://play.crystal-lang.org/#/cr)
-
-
-### CSS
-
-* [CodePen](https://codepen.io)
-* [CSSdeck](https://cssdeck.com)
-* [Dabblet](https://dabblet.com)
-* [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
-* [SoloLearn](https://code.sololearn.com/web#css)
 
 
 ### Dart
@@ -145,6 +137,15 @@
 * [Try Haskell](https://www.tryhaskell.org)
 
 
+### HTML and CSS
+
+* [CodePen](https://codepen.io)
+* [CSSdeck](https://cssdeck.com)
+* [Dabblet](https://dabblet.com)
+* [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
+* [SoloLearn](https://code.sololearn.com/web#css)
+
+
 ### Ionic
 
 * [StackBlitz](https://stackblitz.com/fork/ionic)
@@ -152,6 +153,7 @@
 
 ### Java
 
+* [InterviewBit - Online Java Compiler IDE](https://www.interviewbit.com/online-java-compiler/)
 * [JDoodle - Online Java Compiler Advanced IDE](https://www.jdoodle.com/online-java-compiler-ide/)
 * [JDoodle - Online Java Compiler IDE](https://www.jdoodle.com/online-java-compiler/)
 * [Programiz - Online Java Compiler](https://www.programiz.com/java-programming/online-compiler/)
@@ -166,6 +168,7 @@
 * [Esfiddle](https://esfiddle.net)
 * [Grasshopper](https://grasshopper.app) *(Google account required)*
 * [Hello Website - (Glitch)](https://glitch.new/website) *(Account requested, not required)*
+* [InterviewBit - Online JavaScript Compiler IDE](https://www.interviewbit.com/online-javascript-compiler/)
 * [JSBin](https://jsbin.com)
 * [JSFiddle](https://jsfiddle.net)
 * [Plunker](https://plnkr.co)
@@ -231,6 +234,7 @@
 ### Python
 
 * [Codepad](http://codepad.org/?lang=Python)
+* [InterviewBit - Online Python Compiler IDE](https://www.interviewbit.com/online-python-compiler/)
 * [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
 * [Python Trinket](https://trinket.io/python)
 * [Python.org Shell](https://www.python.org/shell)
