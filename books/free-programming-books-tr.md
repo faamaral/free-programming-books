@@ -64,11 +64,13 @@
 
 * [git - basit rehber](https://rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler (HTML)
 * [Git 101](https://aliozgur.gitbooks.io/git101/) - Ali Özgür (GitBook)
+* [Git ve Github Rehberi](https://github.com/mkdemir/Git_ve_Github_Rehberi) - Mustafa Kaan Demir
 
 
 ### Go
 
 * [Go El Kitabı](https://www.github.com/umutphp/the-little-go-book) - Karl Seguin, `trl.:` Umut Işık tarafından çevirildi ([HTML](https://github.com/umutphp/the-little-go-book/blob/master/tr/go.md), [PDF](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.pdf), [EPUB](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.epub))
+* [Türkçe Go Eğitimi](https://github.com/Furkan-Gulsen/turkce-go-egitimi) - Muhammed Furkan Gülşen
 
 
 ### Güvenlik ve Gizlilik

@@ -4,8 +4,10 @@
 * [C#](#csharp)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
+    * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)
     * [React](#react)
+* [PHP](#php)
 
 
 ### ASP.NET Core
@@ -25,7 +27,8 @@
 
 ### Java
 
-* [Object Oriented Programming ](https://youtube.com/playlist?list=PLqeCu_1ZdDl63h6YR3QsxcGOB7yDS7i3b) - LankaDroid Programming Kuppiya (YouTube)
+* [Introduction to Java](https://www.youtube.com/playlist?list=PLuhSdp06EMkLgaWqSPZKLqePVw-dtqaTT) - Masith Prasanga
+* [Object Oriented Programming ](https://youtube.com/playlist?list=PLqeCu_1ZdDl63h6YR3QsxcGOB7yDS7i3b) - LankaDroid Programming Kuppiya
 * [Sinhala Java Netbeans Lessons](https://youtube.com/playlist?list=PLA3ZeQncjeVu9VHevp2SmPCQ9muVO3fEB) - Chanux Bro
 
 
@@ -34,9 +37,19 @@
 * [JavaScript Tutorial in Sinhala](https://youtube.com/playlist?list=PLYmyc7wRFoQjxkHAzHh1UIdU7ZdjTQvQt) - BestJobsLK
 
 
+### PHP
+
+* [PHP Full Course in Sinhala | 2022](https://www.youtube.com/watch?v=RdxtOQUflrk) - AUK Learning Center
+
+
 #### React
 
 * [Fundamentals \| React JS in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2DpDyWwmAjEuicvVxx4vIYB) - Fiqri Ismail
 * [MERN Stack Developer - Beginners](https://www.youtube.com/playlist?list=PLvfC6i-hEZBnqqF7giszuYI0iqenU5NY0) -  TechWithGeorge
 * [REACT | MERN CRUD App in Sinhala](https://youtube.com/playlist?list=PLtoqJbwHBeHzAooLCGOzYVE9mkAeCnT9y) - Haritha Weerathunga
+* [React JS Full Course in Sinhala | 2023](https://www.youtube.com/watch?v=tM02uzhHDPI&t=759s) -  AUK Learning Center
 
+
+#### Spring Boot
+
+* [REST API with Spring Boot](https://www.youtube.com/playlist?list=PLuhSdp06EMkIhKEo_H-IjrG0cozCuS9lE) - Masith Prasanga
