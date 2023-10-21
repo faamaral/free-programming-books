@@ -19,7 +19,6 @@
     * [React](#react)
 * [LaTeX](#latex)
 * [Linux](#linux)
-* [Mathematik](#mathematik)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
 * [Neo4j](#neo4j)
@@ -31,11 +30,12 @@
 * [R](#r)
 * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
+* [Sage](#sage)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
 * [Shell](#shell)
 * [UML](#uml)
-* [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
+* [Unabhängig von der Programmiersprache](#unabhängig-von-der-programmiersprache)
 * [Unix](#unix)
 * [VHDL](#vhdl)
 * [Visual Basic](#visual-basic)
@@ -93,7 +93,7 @@
 
 ### Delphi
 
-* [Delphi-Starter](https://web.archive.org/web/20170714162427/https://downloads.delphi-treff.de/DelphiStarter.pdf) - Florian Hämmerle, Martin Strohal, Christian Rehn, Andreas Hausladen (PDF) *(:card_file_box: archived)*    
+* [Delphi-Starter](https://web.archive.org/web/20170714162427/https://downloads.delphi-treff.de/DelphiStarter.pdf) - Florian Hämmerle, Martin Strohal, Christian Rehn, Andreas Hausladen (PDF) *(:card_file_box: archived)*
 
 
 ### Git
@@ -216,7 +216,7 @@
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/de) (1.11) (HTML) (:construction: *in process*)
 
 
-#### R
+### R
 
 * [Einführung in R](https://methodenlehre.github.io/einfuehrung-in-R/) - Andrew Ellis, Boris Mayer (HTML)
 
