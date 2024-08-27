@@ -21,6 +21,7 @@
 ### C
 
 * [বাংলায় C প্রোগ্রামিং ল্যাঙ্গুয়েজ শেখার কোর্স](https://c.howtocode.dev) - Jakir Hossain, et al.
+* [Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»](https://cpbook.subeen.com) - Tamim Shahriar Subeen (HTML)
 
 
 ### <a id="cpp"></a>C++
@@ -46,6 +47,7 @@
 ### JavaScript
 
 * [জাভাস্ক্রিপ্ট ল্যাঙ্গুয়েজের এর ব্যাসিক, অ্যাডভান্স](https://js.howtocode.dev) - Nuhil Mehdi (howtocode.dev)
+* [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://zonayed.js.org) - Zonayed Ahmed (HTML)
 
 
 ### Machine Learning
@@ -62,8 +64,14 @@
 * [SL3 Framework - Code For Brain](https://web.archive.org/web/20201024204437/https://sl3.app) - Stack Learners *(:card_file_box: archived)*
 
 
+### Problem Sets
+
+* [৫২ টি প্রোগ্রামিং সমস্যা](http://cpbook.subeen.com/p/blog-page_11.html) - Tamim Shahriar Subeen (HTML)
+
+
 ### Python
 
+* [পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com) - Tamim Shahriar Subeen
 * [বাংলায় পাইথন](https://python.howtocode.dev) - Nuhil Mehdy
 * [সহজ ভাষায় পাইথন ৩](https://python.maateen.me) - Maksudur Rahman Maateen
 * [হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা](https://hukush-pakush.com) - Ikram Mahmud (HTML)
@@ -73,4 +81,3 @@
 
 * [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://www.sattacademy.com/sql/sql-intro.php) - Satt Academy
 * [বাংলায় SQL টিউটোরিয়াল](https://sql.howtocode.dev) - Saiful, et al.
-

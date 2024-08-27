@@ -59,5 +59,6 @@
 ### Web Development
 
 * [Professional Web Developer](http://eimaung.com/professional-web-developer) - Ei Maung (PDF)
-* [Professional Web Developer 2022](https://eimaung.com/pwd2022/) - Ei Maung (PDF)
+* [Professional Web Developer 2023](https://eimaung.com/pwd2023/) - Ei Maung (PDF)
 * [Rockstar Developer](http://eimaung.com/rockstar-developer) - Ei Maung (PDF)
+* [Rockstar Developer 2025](https://github.com/eimg/rsd25) - Ei Maung (PDF, EPUB)
