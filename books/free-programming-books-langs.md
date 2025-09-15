@@ -40,7 +40,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [ColdFusion](#coldfusion)
 * [Component Pascal](#component-pascal)
 * [Cool](#cool)
-* [Coq](#coq)
 * [Crystal](#crystal)
 * [CUDA](#cuda)
 * [D](#d)
@@ -115,7 +114,6 @@ Books on general-purpose programming that don't focus on a specific language are
     * [React](#react)
     * [React Native](#react-native)
     * [Redux](#redux)
-    * [Remix](#remix)
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
 * [Jenkins](#jenkins)
@@ -186,6 +184,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Raku](#raku)
 * [Raspberry Pi](#raspberry-pi)
 * [REBOL](#rebol)
+* [Rocq Prover](#rocq-prover)
 * [Ruby](#ruby)
     * [RSpec](#rspec)
     * [Ruby on Rails](#ruby-on-rails)
@@ -230,6 +229,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Windows Phone](#windows-phone)
 * [Workflow](#workflow)
 * [xBase (dBase / Clipper / Harbour)](#xbase-dbase--clipper--harbour)
+* [Zig](#zig)
 
 
 ### ABAP
@@ -302,6 +302,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Introduction to Arduino : A piece of cake!](http://www.introtoarduino.com) - Alan G. Smith
 * [Learn Arduino](https://riptutorial.com/Download/arduino.pdf) - Compiled from StackOverflow documentation (PDF)
 * [Open softwear - Fashionable prototyping and wearable computing using the Arduino](https://softwear.cc/book/files/Open_Softwear-beta090712.pdf) - Tony Olsson, David Gaetano, Jonas Odhner, Samson Wiklund (PDF) (CC BY-NC-ND)
+* [Science, Programming, Art and Radioelectronics Club (SPARC)](https://github.com/artyom-poptsov/SPARC) - Artyom V. Poptsov (PDF) (CC BY-SA)
 
 
 ### ASP.NET
@@ -346,7 +347,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) - Ed Jorgensen (PDF)
 * [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly) - Wikibooks
 * [x86 Disassembly](https://en.wikibooks.org/wiki/X86_Disassembly) - Wikibooks
-* [Zen of Assembly Language: Volume I, Knowledge (1990)](http://www.jagregory.com/abrash-zen-of-asm/) - Michael Abrash
 
 
 #### Non-X86
@@ -441,8 +441,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [A Tutorial on Pointers and Arrays in C](https://web.archive.org/web/20180827131006/http://home.earthlink.net/~momotuk/pointers.pdf) - Ted Jensen (PDF) *(:card_file_box: archived)*
 * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) - Paulo Feofiloff (HTML)
 * [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
-* [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
-* [Beej's Guide to the GNU Debugger (GDB)](http://beej.us/guide/bggdb/) - Brian "Beej Jorgensen" Hall (HTML)
+* [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - Brian "Beej Jorgensen" Hall (HTML, PDF) (CC BY-NC-ND)
+* [Beej's Guide to the GNU Debugger (GDB)](http://beej.us/guide/bggdb/) - Brian "Beej Jorgensen" Hall (HTML) (CC BY-NC-ND)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com) - Daniel Holden
 * [Build Your Own Redis with C/C++](https://build-your-own.org) - build-your-own.org (HTML) (:construction: *in process*)
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline
@@ -550,7 +550,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Programming Fundamentals - A Modular Structured Approach using C++](https://archive.org/details/cnx-org-col10621/mode/1up) - Kenneth Leroy Busbee (PDF)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson, Br. Isidore Minerd
 * [Software optimization resources](http://www.agner.org/optimize/) - Agner Fog
-* [The Boost C++ libraries](http://theboostcpplibraries.com) - Boris Schäling (HTML)
+* [The Boost C++ libraries](http://theboostcpplibraries.com) - Boris Schäling (HTML) (CC BY-NC-ND)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) - Jeremy Hansen (PDF)
 * [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
 * [Think C++: How To Think Like a Computer Scientist](https://greenteapress.com/wp/think-c/) - Allen B. Downey (PDF)
@@ -571,11 +571,11 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Clojure
 
-* [Clojure](https://clojure-book.gitlab.io) - Karthikeyan A K
+* [Clojure](https://clojure-book.gitlab.io) - Karthikeyan A K (GFDL)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html) - R. Mark Volkmann
 * [Clojure by Example](https://kimh.github.io/clojure-by-example/) - Hirokuni Kim
 * [Clojure community-driven documentation](http://clojure-doc.org)
-* [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
+* [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook) (CC BY-NC-ND)
 * [Clojure Distilled Beginner Guide](http://yogthos.github.io/ClojureDistilled.html)
 * [Clojure for the Brave and True](http://www.braveclojure.com)
 * [Clojure in Small Pieces](https://web.archive.org/web/20201013022918/http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey, Timothy Daly (PDF) *(:card_file_box: archived)* [(:card_file_box: *unglued*)](https://unglue.it/work/489419/)
@@ -586,7 +586,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Learn ClojureScript](https://www.learn-clojurescript.com) - Andrew Meredith
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
-* [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com)
+* [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com) - Tom Hall (HTML) (CC BY-SA)
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 
 
@@ -638,8 +638,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Coq
 
-* [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/html/toc.html)
-* [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/)
+> :information_source: (renamed) see [Rocq Prover](#roq-prover)
 
 
 ### Crystal
@@ -1118,7 +1117,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Spring Boot
 
-* [Building modern Web Apps with Spring Boot and Vaadin](https://v.vaadin.com/hubfs/Pdfs/Building%20Modern%20Web%20Apps%20with%20Spring%20Boot%20and%20Vaadin.pdf) (PDF)
+* [Building modern Web Apps with Spring Boot and Vaadin](https://vaadin.com/docs/v14/flow/tutorial/overview) - Vaadin (HTML)
 * [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/html/) - Phillip Webb, et al. ([PDF](https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf))
 
 
@@ -1150,7 +1149,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Designing Scalable JavaScript Applications](https://www.manning.com/books/designing-scalable-javascript-applications) - Emmit Scott (PDF+livebook)
 * [Dev Docs](https://devdocs.io/javascript/) - Various (HTML)
 * [DOM Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/) - Cody Linley
-* [Eloquent JavaScript 3rd edition](http://eloquentjavascript.net) - Marijn Haverbeke (HTML, PDF, EPUB, MOBI) (CC BY-NC)
+* [Eloquent JavaScript 4th edition](https://eloquentjavascript.net) - Marijn Haverbeke (HTML, PDF, EPUB, MOBI) (CC BY-NC)
 * [Essential Javascript](https://www.programming-books.io/essential/javascript/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Exploring ES6](http://exploringjs.com/es6/) - Axel Rauschmayer (HTML)
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Kyle Simpson (HTML)
@@ -1335,7 +1334,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Node Documentation](https://nodejs.org/en/docs/) (PDF)
 * [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al.
-* [Node.js Design Patterns](https://ia801309.us.archive.org/5/items/HandbookOfNeuralComputingApplicationsPDFStormRG/Node.js%20Design%20Patterns%20-%20Casciaro,%20Mario%20%5BPDF%5D%5BStormRG%5D.pdf) - Mario Casciaro (PDF)
 * [Node.js Notes for Professionals](http://goalkicker.com/NodeJSBook) - Compiled from StackOverflow Documentation (PDF)
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
 * [Practical Node.js: Building Real-World Scalable Web Apps](https://github.com/azat-co/practicalnode) - Azat Mardan
@@ -1400,12 +1398,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 * [The Complete Redux Book](https://leanpub.com/redux-book/read) - Boris Dinkevich, Ilya Gelman (HTML)
-
-
-#### Remix
-
-* [Developer Blog Tutorial](https://remix.run/docs/en/v1/tutorials/blog)
-* [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes)
 
 
 #### Svelte
@@ -1553,6 +1545,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [An Introduction to Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html)
 * [Elisp Programming](https://caiorss.github.io/Emacs-Elisp-Programming/Elisp_Programming.html)
+* [Emacs Lisp Elements](https://protesilaos.com/emacs/emacs-lisp-elements) - Protesilaos Stavrou (HTML)
 * [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
 
 
@@ -2124,7 +2117,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Flask
 
-* [Explore Flask](https://exploreflask.com) - Robert Picard
+* [Explore Flask](https://explore-flask.readthedocs.io) - Robert Picard
 * [Flask Documentation](https://flask.palletsprojects.com) - Pallets
 * [Python Flask Tutorial](https://www.tutorialspoint.com/flask/) - Tutorials Point (HTML, PDF)
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
@@ -2182,6 +2175,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [An Introduction to ggplot2](https://bookdown.org/ozancanozdemir/introduction-to-ggplot2) - Ozancan Ozdemir
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html) - David M. Smith, William N. Venables
 * [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.view-in-google.html) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani (PDF)
+* [Behavior Analysis with Machine Learning Using R](https://enriquegit.github.io/behavior-free/) - Enrique Garcia Ceja (HTML) (CC BY-NC-ND)
 * [Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR) - Paul Roback, Julie Legler
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) - Yihui Xie, Amber Thomas, Alison Presmanes Hill
 * [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
@@ -2322,6 +2316,12 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Sinatra
 
 * [Sinatra Book](https://github.com/sinatra/sinatra-book)
+
+
+### Rocq Prover
+
+* [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/html/toc.html)
+* [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/)
 
 
 ### Rust
@@ -2705,3 +2705,9 @@ Books on general-purpose programming that don't focus on a specific language are
 ### YAML
 
 * [YAML Tutorial](https://www.tutorialspoint.com/yaml/yaml_tutorial.pdf) - TutorialsPoint (PDF)
+
+
+### Zig
+
+* [Introduction to Zig](https://pedropark99.github.io/zig-book) - Pedro Duarte Faria (HTML)
+* [Zig Language Reference](https://ziglang.org/documentation/master) (HTML)

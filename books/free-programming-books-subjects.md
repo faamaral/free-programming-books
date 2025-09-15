@@ -161,11 +161,11 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Build a Blockchain from Scratch in Go with gRPC](https://github.com/volodymyrprokopyuk/go-blockchain) - Volodymyr Prokopyuk
 * [chain.courses](https://web.archive.org/web/20220127020549/https://chain.courses/) - James Gan, Rishub Kumar *(:card_file_box: archived)*
 * [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
-* [Grokking Bitcoin](https://rosenbaum.se/book/) - Kalle Rosenbaum (HTML)
+* [Grokking Bitcoin](https://rosenbaum.se/book/) - Kalle Rosenbaum (HTML) `(CC BY-NC-SA)`
 * [IBM Blockchain: The Founder’s Handbook, Third Edition](https://www.ibm.com/downloads/cas/GZPPMWM5) - Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield, et al. (PDF)
 * [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - Christopher Allen, Shannon Appelcline, et al. (HTML)
-* [Mastering Bitcoin - Unlocking digital currencies (2017), 2nd Edition](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos (AsciiDoc)
-* [Mastering Ethereum (2018), 1st Edition](https://github.com/ethereumbook/ethereumbook) - Andreas M. Antonopoulos, Gavin Wood (AsciiDoc)
+* [Mastering Bitcoin - Unlocking digital currencies (2017), 2nd Edition](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos (AsciiDoc) `(CC BY-NC-ND)`
+* [Mastering Ethereum (2018), 1st Edition](https://github.com/ethereumbook/ethereumbook) - Andreas M. Antonopoulos, Gavin Wood (AsciiDoc) 
 * [Mastering the Lightning Network](https://github.com/lnbook/lnbook) - Andreas M. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt (AsciiDoc)
 * [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
 
@@ -200,7 +200,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Competitive Programming
 
-* [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) - Antti Laaksonen (PDF)
+* [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) - Antti Laaksonen (PDF) `(CC BY-NC-SA)`
 * [Competitive Programming, 1st Edition](https://cpbook.net/#CP1details) - Steven Halim [(PDF)](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
 * [Competitive Programming, 2nd Edition](https://cpbook.net/#CP2details) - Steven Halim [(PDF)](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp2.pdf)
 * [Principles of Algorithmic Problem Solving](https://www.csc.kth.se/~jsannemo/slask/main.pdf) - Johan Sannemo (PDF)
@@ -210,6 +210,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 * [An Introduction to GCC](https://web.archive.org/web/20170326232435/http://www.network-theory.co.uk/docs/gccintro/index.html) - Brian Gough *(:card_file_box: archived)*
 * [Basics of Compiler Design (Anniversary Edition)](http://www.diku.dk/~torbenm/Basics/) - Torben Mogensen
+* [Compiler Construction using C# (SLANGFOR.NET)](https://github.com/mmj-the-fighter/slang_for_dot_net_revision/blob/main/bookA4Desk.pdf) - Praseed Pai (PDF)
 * [Compiler Design in C (1990)](https://holub.com/goodies/compiler/compilerDesignInC.pdf) - Allen Holub, Prentice Hall (PDF)
 * [Compiler Design: Theory, Tools, and Examples, C/C++ Edition](https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/c_cpp/Text/C_CppEd.pdf) - Seth D. Bergmann (PDF) *(:card_file_box: archived)*
 * [Compiler Design: Theory, Tools, and Examples, Java Edition](https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/java/CompilerDesignBook.pdf) - Seth D. Bergmann (PDF) *(:card_file_box: archived)*
@@ -308,7 +309,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Embedded Systems
 
 * [Control and Embedded Systems](http://www.learn-c.com) (HTML)
-* [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF) (CC BY-NC-SA)
+* [Discovering the STM32 Microcontroller](https://web.archive.org/web/20250112021837/https://legacy.cs.indiana.edu/~geobrown/book.pdf) (PDF) (CC BY-NC-SA)
 * [First Steps with Embedded Systems](https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf) - Byte Craft Limited (PDF)
 * [Introduction to Embedded Systems, Second Edition](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) - Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF) (CC BY-NC-ND)
 * [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
@@ -319,7 +320,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 * [2D Game Development: From Zero To Hero](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *(:construction: in process)*
 * [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html) - Fletcher Dunn (HTML)
-* [Coding With Minecraft](https://turtleappstore.com/book/) - Al Sweigart
 * [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
 * [Game AI Pro](https://www.gameaipro.com) - Steve Rabin
 * [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
@@ -681,7 +681,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Bits, Signals, and Packets: An Introduction to Digital Communications and Networks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)
 * [Code Connected vol.1](https://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
 * [Computer Networking : Principles, Protocols and Practice](http://cnp3book.info.ucl.ac.be/1st/html/index.html) (HTML, ePub, PDF, Kindle)
-* [Computer Networks](https://kanchiuniv.ac.in/coursematerials/VINODKUMAR_COMPUTER_NETWORKS.pdf) - J.Vinoth kumar (PDF)
 * [Computer Networks: A Systems Approach](https://book.systemsapproach.org) - Larry Peterson, Bruce Davie (HTML, epub, mobi, PDF)
 * [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
 * [High-Performance Browser Networking](https://hpbn.co) - Ilya Grigorik
@@ -741,6 +740,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Flexible Operating System Internals: The Design and Implementation of the Anykernel and Rump Kernels](https://aaltodoc.aalto.fi/handle/123456789/6318) - Antti Kantee (PDF)
 * [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - Samy Pesse  *(:construction: in process)*
 * [How to write a simple operating system in assembly language](https://mikeos.sourceforge.net/write-your-own-os.html) - Mike Saunders (HTML)
+* [Linux Kernel in a Nutshell](http://www.linuxtopia.org/online_books/linux_kernel/kernel_configuration) - Greg Kroah-Hartman (HTML)
 * [Making Servers Work: A Practical Guide to Linux System Administration](https://www.digitalocean.com/community/books/sysadmin-ebook-making-servers-work) - Jamon Camisso (PDF, EPUB)
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) - Max Hailperin (PDF, LaTeX)
 * [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01/releases/tag/0.0.1) - Tu, Ho Doang (PDF) (:construction: *in process*)
@@ -785,6 +785,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Professional Software Development For Students](https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html) - Mike G. Miller
 * [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
 * [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady *(:construction: in process)*
+* [Succeed In Software: A Comprehensive Guide To Software Career Excellence](https://github.com/succeedinsoftware/book) - Sean Cannon (PDF, ePUB) (CC BY-NC-ND)
 * [Teaching Tech Together](http://teachtogether.tech/en/) - Greg Wilson (HTML)
 * [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
 
@@ -811,6 +812,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Flow based Programming](https://jpaulmorrison.com/fbp/) - J Paul Morrison
 * [Introduction to Functional Programming](https://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) - J. Harrison
+* [Learn Functional Programming](https://learn-functional-programming.com) - G. Jovic (HTML)
 * [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf) - Martin Kleppmann (PDF)
 * [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
 * [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
@@ -866,6 +868,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
 * [Cryptography](https://en.wikibooks.org/wiki/Cryptography) - Wikibooks (HTML) *(:construction: in process)*
 * [CryptoParty Handbook](https://unglue.it/work/141611/)
+* [Fuzzing Book](https://www.fuzzingbook.org) - Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, Christian Holler (HTML)
 * [Gray Hat Hacking: The Ethical Hacker's Handbook](https://pages.cs.wisc.edu/~ace/media/gray-hat-hacking.pdf) - Allen Harper, Jonathan Ness, Chris Eagle, Shon Harris, Gideon Lenkey, Terron Williams (PDF)
 * [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/index.html)
 * [How HTTPS works](https://howhttps.works) - dnsimple
@@ -887,6 +890,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns/read) - Rahul Batra (HTML)
 * [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) - Launch School
+* [Architectural Metapatterns: The Pattern Language of Software Architecture](https://github.com/denyspoltorak/publications/tree/main/ArchitecturalMetapatterns) - Denys Poltorak, `edt.:` Lars Noodén (PDF, EPUB, ODT) (CC BY)
 * [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
 * [Best Kept Secrets of Peer Code Review](https://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)
 * [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (PDF)
@@ -913,6 +917,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Reactive Microservices Architecture](https://www.lightbend.com/ebooks/reactive-microservices-architecture-design-principles-for-distributed-systems-oreilly) (email address *requested*)
 * [Reactive Microsystems: The Evolution of Microservices at Scale](https://www.lightbend.com/ebooks/reactive-microsystems-evolution-of-microservices-scalability-oreilly) (email address *requested*)
 * [Refactor Like a Superhero](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-en/README.md) - Alex Bespoyasov
+* [Safe by design](https://github.com/SanQri/safe-by-design) - Mykola Haliullin
 * [Scrum and XP from the Trenches](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
 * [Serverless apps: Architecture, patterns, and Azure implementation](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/)
 * [Serverless Design Patterns and Best Practices](https://www.packtpub.com/free-ebooks/serverless-design-patterns-and-best-practices) - Brian Zambrano (Packt account *required*)
@@ -943,6 +948,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski (PDF)
 * [Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - Stefan Hugtenburgand, Neil Yorke-Smith @ TU Delft Open (PDF)
 * [Homotopy Type Theory: Univalent Foundations of Mathematics](https://homotopytypetheory.org/book/) (PDF)
+* [Introduction to Theoretical Computer Science](https://files.boazbarak.org/introtcs/lnotes_book.pdf) - Boaz Barak (PDF)
 * [Introduction to Theory of Computation](https://cglab.ca/~michiel/TheoryOfComputation/) - Anil Maheshwari, Michiel Smid (PDF)
 * [Models of Computation](https://cs.brown.edu/people/jes/book/) - John E. Savage
 * [Principles of Programming Languages](https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/~scott/pl/book/dist/) - Scott F. Smith *(:card_file_box: archived)*
