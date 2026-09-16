@@ -15,7 +15,9 @@
 * [Algorithms for Competitive Programming](https://cp-algorithms.com)
 * [APL Problem Solving Competition](https://contest.dyalog.com)
 * [AtCoder](https://atcoder.jp)
+* [Atcoder DP Contest](https://atcoder.jp/contests/dp) - Atcoder
 * [beecrowd](https://www.beecrowd.com.br)
+* [BigFrontEnd.dev](https://bigfrontend.dev)
 * [COCI](https://hsin.hr/coci/)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
@@ -33,9 +35,11 @@
 * [DMOJ](https://dmoj.ca)
 * [E-olymp](https://www.e-olymp.com/en/)
 * [Exercism](https://exercism.org)
+* [Frontend Coding Challenges](https://frontendatlas.com/coding) - FrontendAtlas
 * [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
+* [JSCodebox](https://jscodebox.com)
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
 * [Last Moment DSA Sheet(79) – Ace Interviews](https://takeuforward.org/interview-sheets/strivers-79-last-moment-dsa-sheet-ace-interviews) - Striver
@@ -80,6 +84,7 @@
 * [AIcrowd](https://www.aicrowd.com)
 * [CodaLab](https://codalab.lisn.upsaclay.fr)
 * [CrowdANALYTIX](https://www.crowdanalytix.com/community)
+* [Deep-ML](https://www.deep-ml.com/problems)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
 * [Zindi](https://zindi.africa)
@@ -141,6 +146,7 @@
 * [Pep Coding](https://www.pepcoding.com/resources)
 * [PKU Online Judge](http://poj.org)
 * [Ponder This!](https://www.research.ibm.com/haifa/ponderthis/index.shtml)
+* [PracHub](https://prachub.com/questions)
 * [Practice Python](https://www.practicepython.org)
 * [ProblemBook.NET](https://github.com/AndreyAkinshin/ProblemBook.NET)
 * [Project Euler](https://projecteuler.net)
@@ -155,4 +161,3 @@
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
 * [Vulnhub.com](https://www.vulnhub.com)
 * [Школа программиста](https://acmp.ru)
-

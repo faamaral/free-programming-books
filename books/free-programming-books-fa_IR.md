@@ -72,13 +72,14 @@
 
 #### Symfony
 
-* [سیمفونی ۵: سریع‌ترین مسیر&rlm;](https://web.archive.org/web/20210122133755/https://symfony.com/doc/current/the-fast-track/fa/index.html) - *(:card_file_box: archived)*
+* [سیمفونی ۵: سریع‌ترین مسیر&rlm;](https://web.archive.org/web/20210122133755/https://symfony.com/doc/current/the-fast-track/fa/index.html) - *( :card_file_box: archived)*
 
 
 ### Python
 
 * [پایتون به پارسی](https://python.coderz.ir) - سعید درویش&rlm; (HTML)
 * [ترجمه آزاد کتاب Asyncio in Python&rlm;](https://github.com/ftg-iran/aip-persian)
+* [ترجمه آزاد کتاب ThinkPython&rlm;](https://github.com/ThinkPythonPersian/thinkbook) - جمعی از مترجمان
 
 
 #### Django

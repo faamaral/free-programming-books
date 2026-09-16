@@ -3,6 +3,7 @@
 * [Algorithms](#algorithms)
 * [C](#c)
 * [C++](#cpp)
+* [Computer Science](#computer-science)
 * [Data Science](#data-science)
 * [Git and Github](#git-and-github)
 * [Go](#go)
@@ -12,11 +13,12 @@
 * [Misc](#misc)
 * [Python](#python)
 * [Sql](#sql)
+* [Web Development](#web-development)
 
 
 ### Algorithms
 
-* [Dynamic Programming Book «ডাইনামিক প্রোগ্রামিং বই»](https://dp-bn.github.io) - Tasmeem Reza, Mamnoon Siam (PDF, [LaTeX](https://github.com/Bruteforceman/dynamic-progamming-book))
+* [Dynamic Programming Book «ডাইনামিক প্রোগ্রামিং বই»](https://dp-bn.github.io) - Tasmeem Reza, Mamnoon Siam (PDF, [LaTeX](https://github.com/Bruteforceman/dynamic-programming-book))
 
 
 ### C
@@ -26,9 +28,9 @@
 * [Computer Programming Part 3](https://archive.org/details/computer-programming-part-3-tamim-shaharier-subin) - Tamim Shahriar Subeen (PDF)
 
 
-### <a id="cpp"></a>C++
+### Computer Science
 
-* [সিপিপি পরিগণনা Computer Programming](https://www.academia.edu/16658418/c_programming_bangla_book) - Mahmudul Hasan (PDF, HTML)
+* [Learn Computer Academy Docs](https://docs.learncomputer.in/bn) - Learn Computer Academy
 
 
 ### Data Science
@@ -65,7 +67,7 @@
 
 * [কেমনে করে সিস্টেম ডিজাইন?](https://imtiaz-hossain-emu.gitbook.io/system-design/) - Imtiaz Hossain Emu
 * [ডেভসংকেত: বাংলা চিটশিটের ভান্ডার](https://devsonket.com) - Devsonket Team
-* [SL3 Framework - Code For Brain](https://web.archive.org/web/20201024204437/https://sl3.app) - Stack Learners *(:card_file_box: archived)*
+* [SL3 Framework - Code For Brain](https://web.archive.org/web/20201024204437/https://sl3.app) - Stack Learners *( :card_file_box: archived)*
 
 
 ### Problem Sets
@@ -87,7 +89,11 @@
 * [বাংলায় SQL টিউটোরিয়াল](https://sql.howtocode.dev) - Saiful, et al.
 
 
+### Web Development
+
+* [এইচটিএমএল ও সিএসএস ইন বাংলায় (HTML & CSS in Bangla)](https://github.com/CodeJogot/html-css-course-in-bangla) - Farmer Abdul Alim (GitHub, HTML)
+
+
 ### Git and Github
 
 * [এক পলকে গিট ও গিটহাব](https://with.zonayed.me/book/git-n-github-at-glance/) - Zonayed
-

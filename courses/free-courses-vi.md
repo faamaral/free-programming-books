@@ -9,7 +9,7 @@
 * [Blazor](#blazor)
 * [Bootstrap](#bootstrap)
 * [C](#c)
-* [C#](#a-idcsharpac)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Cấu trúc dữ liệu và Giải thuật](#cấu-trúc-dữ-liệu-và-giải-thuật)
 * [Dart](#dart)
@@ -248,9 +248,11 @@
 * [Go Language Advanced Programming](https://github.com/zalopay-oss/go-advanced) - Zalopay
 * [Golang cơ bản - Playlist](https://www.youtube.com/playlist?list=PLw-L1SGSvTEco7QvKTEd39wrMoTCPNUuN) - Yuh lập trình viên
 * [Golang thực chiến cho người mới](https://www.youtube.com/playlist?list=PLVDJsRQrTUz4bQDHCElBG2AsJzCwonqKs) - Code4Func
+* [Khóa học lập trình Golang Từ Cơ Bản Đến Nâng Cao – Lập Trình Go Cho Người Mới [FULL COURSE A - Z]](https://www.youtube.com/playlist?list=PLTasIXUHepx0tYvXfFsbEl69VbMCZDH1i) - Code With Tuan
 * [Lập trình Go cơ bản](https://www.youtube.com/playlist?list=PLOsM_3jFFQRnzp7jWU3WLmQ1sF4IX45zr) - Việt Trần
 * [Lập trình Golang](https://www.youtube.com/playlist?list=PLVDJsRQrTUz5icsxSfKdymhghOtLNFn-k) - Code4Func
 * [Lập Trình REST API cơ bản với Golang](https://www.youtube.com/playlist?list=PLOsM_3jFFQRl3tAqDVU-nPJOHBfXJVnaM) - Việt Trần
+* [Master RESTful API với Golang và Gin: Khóa Học Lập Trình Thực Chiến Xây Dựng Backend  [FULL COURSE A - Z]](https://www.youtube.com/playlist?list=PLTasIXUHepx1hPkFeN9OXa2bcuILAqiJM) - Code With Tuan
 * [Tự học Golang trong 5 giờ. Học xong kiếm lương ngàn đô!](https://www.youtube.com/playlist?list=PLC4c48H3oDRwlxVzOv2L8CXF7tZmtPHkn) - The Funzy Dev
 
 
@@ -356,7 +358,7 @@
 
 * [Khóa tự học machine learning cơ bản](https://www.youtube.com/playlist?list=PLZEIt444jqpBPoqtW2ARJp9ICnF3c7vJC) - Son Nguyen
 * [Lập trình Machine learning cơ bản với Python](https://www.youtube.com/playlist?list=PL33lvabfss1zLDVHXW_YUJxhxBFap-vm_) - K team
-* [Machine learing cơ bản](https://machinelearningcoban.com) - Vũ Hữu Tiệp *(:construction: in process)*
+* [Machine learing cơ bản](https://machinelearningcoban.com) - Vũ Hữu Tiệp *( :construction: in process)*
 * [Machine Learning](https://www.youtube.com/playlist?list=PLsWjY--3QXFWE1Nk6erXuTSf3QLC161pm) - Son Tran
 * [Machine Learning Cơ Bản](https://www.youtube.com/playlist?list=PLu-LVHS6JzYjoUuPAwcE9sff2NMrEH6KD) - Học Lập Trình cùng Phát
 * [Machine learning cơ bản (Học máy thống kê)](https://www.youtube.com/playlist?list=PLpDNYPX7w1RYeDSr3q0EJA978jjuMz4TX) - Bài Học 10 Phút
@@ -476,7 +478,6 @@
 ### React
 
 * [Học lập trình React JS - Redux - NodeJS qua dự án thực tế](https://www.youtube.com/playlist?list=PLmbxe7ftoDqSNf5yGMhbDNjIZIM5mQ7Ow) - Thầy Nguyễn Đức Việt
-* [Học React Hooks cơ bản (2020)](https://www.youtube.com/playlist?list=PLeS7aZkL6GOsHNoyeEpeL8B1PnbKoQD9m) - Easy Frontend
 * [Học React Hooks cơ bản (2020)](https://www.youtube.com/playlist?list=PLeS7aZkL6GOsHNoyeEpeL8B1PnbKoQD9m) - Easy Frontend
 * [Học redux cơ bản 2020](https://www.youtube.com/playlist?list=PLeS7aZkL6GOvCz3GiOtvtDXChJRuebb7S) - Easy Frontend
 * [Khóa Học Fullstack SERN (SQL, Express.js, React.js, Node.js) Web Developer](https://youtube.com/playlist?list=PLncHg6Kn2JT6E38Z3kit9Hnif1xC_9VqI) - Hỏi Dân IT

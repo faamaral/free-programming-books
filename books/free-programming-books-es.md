@@ -295,7 +295,7 @@
 #### MongoDB
 
 * [El pequeño libro MongoDB](https://github.com/uokesita/the-little-mongodb-book) - Karl Seguin, `trl.:` Osledy Bazo
-* [MongoDB en español: T1, El principio](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content) - Yohan D. Graterol (HTML) *(:construction: en proceso)*
+* [MongoDB en español: T1, El principio](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content) - Yohan D. Graterol (HTML) *( :construction: en proceso)*
 
 
 #### Redis
@@ -344,6 +344,7 @@
 * [Aprende Python](https://aprendepython.es) - Sergio Delgado Quintero (HTML, PDF) (CC BY)
 * [Aprendiendo a Programar en Python con mi Computador](https://openlibra.com/en/book/download/aprendiendo-a-programar-en-python-con-mi-computador) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/) (HTML)
+* [El tutorial de Python](https://docs.python.org/es/3/tutorial/) - Python Software Foundation (HTML)
 * [Inmersión en Python](https://code.google.com/archive/p/inmersionenpython3/) (HTML)
 * [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) - Mark Pilgrim, `trl.:` José Miguel González Aguilera (PDF) (descarga directa)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) - Andrés Marzal, Isabel Gracia (PDF)
@@ -397,7 +398,7 @@
 ### Scala
 
 * [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) - Emmanuel Paradis, `trl.:` Jorge A. Ahumada (PDF)
-* [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) - Martin Odersky, `trl.:` Daniel Erunamo *(:construction: en proceso)*
+* [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) - Martin Odersky, `trl.:` Daniel Erunamo *( :construction: en proceso)*
 
 
 ### Scratch

@@ -4,6 +4,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
@@ -29,6 +30,7 @@
 * [Python](#python)
 * [Rust](#rust)
 * [Solidity](#solidity)
+* [Swift](#swift)
 
 
 ### Android
@@ -39,7 +41,7 @@
 
 ### C
 
-* [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/) - Ahmad Muhardian *(:construction: in process)*
+* [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/) - Ahmad Muhardian *( :construction: in process)*
 * [Tutorial Belajar Bahasa Pemrograman C Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/) - Duniailkom
 
 
@@ -52,6 +54,11 @@
 
 * [Belajar C++ Dasar Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming) - Kelas Terbuka
 * [Buku Pintar C++ untuk Pemula](https://www.researchgate.net/publication/236687537_Buku_Pintar_C_untuk_Pemula) - Abdul Kadir
+
+
+### Game Development
+
+* [AI dan Claude Code untuk Praktik Game Design](https://github.com/eremes81/game-design-ai-practice-id) - Minsoo Lee
 
 
 ### Git
@@ -70,16 +77,17 @@
 
 ### HTML and CSS
 
+* [Cara Cepat dan Mudah Menguasai CSS Rule](https://gilacoding.com/upload/file/Mahir-menguasai-CSS-Part%201.pdf) - Rudy Devianto (PDF)
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
 * [Ebook HTML CSS Manual Dasar](https://github.com/LIGMATV/LIGMATV/wiki/Ebook-HTML-CSS-Manual-Dasar) - Muhammad Danish Naufal (PDF, DOCX)
-* [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *(:construction: dalam proses)*
+* [Mahir Menguasai CSS - Tutorial & Praktek](https://gilacoding.com/upload/file/Mahir-menguasai-CSS-Part%202.pdf) - Rudy Devianto (PDF)
+* [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
 * [Tutorial HTML untuk Pemula](https://www.petanikode.com/tutorial/html/) - Ahmad Muhardian (Petani Kode)
 
 
 #### Bootstrap
 
 * [Bootstrap](https://www.malasngoding.com/category/bootstrap/) - Diki Alfarabi Hadi
-* [Bootstrap 5 : Pengertian, Fitur, Keunggulan dan Cara Menggunakannya](https://www.niagahoster.co.id/blog/tutorial-bootstrap-5/) - Niagahoster (HTML)
 * [Daftar Tutorial Bootstrap 4 Bahasa Indonesia](https://www.bewoksatukosong.com/2019/02/tutorial-bootstrap-4-bahasa-indonesia.html) - Gerald Cahya Prambudi
 * [Tutorial Belajar Framework Bootstrap 5](https://www.duniailkom.com/tutorial-belajar-framework-bootstrap/) - Duniailkom
 
@@ -106,7 +114,7 @@
 * [Learn JavaScript](https://javascript.sumankunwar.com.np/id) - Suman Kumar, Github Contributors (HTML, PDF)
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
-* [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(:construction: dalam proses)*
+* [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *( :construction: dalam proses)*
 * [Tutorial JavaScript Modern](https://id.javascript.info) - Ilya Kantor
 
 
@@ -193,7 +201,7 @@
 * [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Belajar PHP Dasar Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-php-dasar-untuk-pemula/) - Duniailkom
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
-* [Tutorial Pemrograman PHP untuk Pemula](https://www.petanikode.com/tutorial/php) - Ahmad Muhardian (Petani Kode) *(:construction: dalam proses)*
+* [Tutorial Pemrograman PHP untuk Pemula](https://www.petanikode.com/tutorial/php) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
 
 
 #### CodeIgniter
@@ -202,7 +210,7 @@
 * [Codeigniter Untuk Pemula](https://repository.bsi.ac.id/index.php/unduh/item/176695/Tutorial-Codeigniter-Untuk-Pemula.pdf) - M Fikri Setiadi (PDF)
 * [Framework Codeigniter - Sebuah Panduan dan Best Practice](https://gilacoding.com/upload/file/Tutorial%20framework%20codeigniter.pdf) - Gila Coding (PDF)
 * [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
-* [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(:construction: dalam proses)*
+* [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *( :construction: dalam proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
 
 
@@ -223,6 +231,7 @@
 * [Belajar Python](http://www.belajarpython.com)
 * [Cepat Mahir Python](https://gilacoding.com/upload/file/Python.pdf) - Hendri, `edt.:` Romi Satria Wahono (PDF)
 * [Dasar-Dasar Python: Panduan Cepat untuk Memahami Fondasi Pemrograman Python](https://www.researchgate.net/publication/361459389_Dasar-Dasar_Python_Panduan_Cepat_untuk_Memahami_Fondasi_Pemrograman_Python) - Abdul Kadir
+* [Dasar Pemrograman Python](https://dasarpemrogramanpython.novalagung.com) - Noval Agung Prayogo
 * [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Python Untuk Pemula](https://santrikoding.com/ebook/python-untuk-pemula) - Rizqi Maulana
@@ -242,3 +251,8 @@
 ### Solidity
 
 * [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)
+
+
+### Swift
+
+* [Swift Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhR8A_Xq7drrxC4OlUvNP7b) - Ipung DEV Academy
